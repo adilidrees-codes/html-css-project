@@ -24,7 +24,7 @@ padding-left: 2rem;
 }
 .hero{
     
-    background-image: url(hero-pic.jpg);
+    background-image: url(images/hero-pic.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -265,7 +265,7 @@ padding-left: 40px;
 .Qaiser-Abbas{
   font-family: 'Poppins', sans-serif;
   font-size:45px;
-  background-image: url(Images/Greadient.png);
+  background-image: url(images/Images/Greadient.png);
   background-color: #333461;
   color:white;
   width: 450px;
@@ -363,7 +363,7 @@ font-size:19px;
 }
 .establish
 {
-  background-image: url(Images/establish-image.jpg);
+  background-image: url(images/Images/establish-image.jpg);
   background-size: cover;
   background-position: center;
   max-height: 360px;
@@ -383,20 +383,20 @@ font-size:19px;
   opacity: 0.8; */
   background: 
     linear-gradient(rgba(42, 61, 76, 0.6), rgba(42, 61, 76, 0.6)),
-    url("establish-image.jpg");
+    url(images/"establish-image.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 }
 .est-pic2{
-  /* background-image: url(Images/grow.jpg);
+  /* background-image: url(images/Images/grow.jpg);
   background-color: #333333;
   background-blend-mode: overlay;
     opacity:0.8; */
     
      background: 
   linear-gradient(rgba(51, 51, 51, 0.7), rgba(51, 51, 51, 0.7)),
-  url("grow.jpg");
+  url(images/"grow.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -404,14 +404,14 @@ background-repeat: no-repeat;
 }
 
 .est-pic3{
-  /* background-image: url(Images/publish.jpg);
+  /* background-image: url(images/Images/publish.jpg);
   background-color: #2A3D4C;
   background-blend-mode: overlay;
     opacity:0.8 ; */
   
 background: 
   linear-gradient(rgba(42, 61, 76, 0.7), rgba(42, 61, 76, 0.7)),
-  url("publish1.jpg");
+  url(images/"publish1.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -686,7 +686,7 @@ justify-content: center;
   text-align: center;
 }
 .Override{
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+  @import url(images/'https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
   font-family: 'Montserrat', sans-serif;
   font-weight: 500; /* Medium */
   font-size: 15.63px;
@@ -863,7 +863,7 @@ justify-content: center;
 .plan-background-image-div{
   display:flex;
   background-color: #f7fafc;
-background-image: url(Images/Group.png);
+background-image: url(images/Images/Group.png);
 }
 .lower-cost-div{
   display: flex;
@@ -894,7 +894,7 @@ background-image: url(Images/Group.png);
       #000000CC,  /* dark at bottom */
       #00000000   /* transparent at top */
     ),
-    url("footer-image.jpg");
+    url(images/"footer-image.jpg");
 
   background-size: cover;
   background-position: center;
