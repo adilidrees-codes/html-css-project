@@ -383,7 +383,7 @@ font-size:19px;
   opacity: 0.8; */
   background: 
     linear-gradient(rgba(42, 61, 76, 0.6), rgba(42, 61, 76, 0.6)),
-    url(images/"establish-image.jpg");
+    url(images/establish-image.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -411,7 +411,7 @@ background-repeat: no-repeat;
   
 background: 
   linear-gradient(rgba(42, 61, 76, 0.7), rgba(42, 61, 76, 0.7)),
-  url(images/"publish1.jpg");
+  url(images/publish1.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -686,7 +686,7 @@ justify-content: center;
   text-align: center;
 }
 .Override{
-  @import url(images/'https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
   font-family: 'Montserrat', sans-serif;
   font-weight: 500; /* Medium */
   font-size: 15.63px;
@@ -894,7 +894,7 @@ background-image: url(images/Images/Group.png);
       #000000CC,  /* dark at bottom */
       #00000000   /* transparent at top */
     ),
-    url(images/"footer-image.jpg");
+    url(images/footer-image.jpg);
 
   background-size: cover;
   background-position: center;
